@@ -44,4 +44,12 @@
   
   .bg2::after {
     background-image: url(resources/berg.jpg);
+    background-position: 0 -100px;
+  }
+
+  a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightslategray;
+    text-decoration: none;
+    text-align: center;
   }
